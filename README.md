@@ -24,7 +24,7 @@ Options
 Uses
 ============
 page load example
-```
+```javascript
 $(document).ready(function(){
 	$('input,textarea').gplaceholder({
 		color:'red',
