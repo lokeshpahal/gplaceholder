@@ -1,0 +1,4 @@
+gplaceholder
+============
+
+Global Placeholder plugin
