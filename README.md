@@ -16,6 +16,10 @@ http://lokeshpahal.github.io/gplaceholder/
 For **downloads**, see:
 https://github.com/lokeshpahal/gplaceholder/
 
+Options
+===========
+ - color : to change the font color of the placeholder.
+ - background : to apply the background of the element.
 
 Uses
 ============
