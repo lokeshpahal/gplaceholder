@@ -3,7 +3,12 @@ gplaceholder
 
 - jQuery support: 1.4+
 
-Global Placeholder plugin, gives power you to use **HTML5 placeholder** property in **cross-browser** platform, **IE6+**.
+Global Placeholder plugin, gives power you to use **HTML5 placeholder** property in **cross-browser** platform.
+- **IE6+**
+- **Mozila**(all)
+- **Chrome**(all)
+- **Safari**(all)
+- **Opera**(all)
 
 For **documentation**, usage, and examples, see:
 http://lokeshpahal.github.io/gplaceholder/
