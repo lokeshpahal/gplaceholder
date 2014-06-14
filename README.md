@@ -34,7 +34,7 @@ $(document).ready(function(){
 ```
 
 run time example
-```
+```javascript
 $('#add').click(function(){
 	$('table').append('<tr><td>Other things:</td><td><input class="place" type="text" name="name" placeholder="Other things" /></td></tr>');
 	$('input,textarea').resetGP();
