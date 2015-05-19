@@ -28,7 +28,8 @@ page load example
 $(document).ready(function(){
 	$('input,textarea').gplaceholder({
 		color:'red',
-		background:'#fff'
+		background:'#fff',
+		onlyIE: true
 	});
 });
 ```
