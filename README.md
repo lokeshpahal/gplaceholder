@@ -1,4 +1,4 @@
-gplaceholder
+Gplaceholder Lib
 ============
 
 - jQuery support: 1.4+
