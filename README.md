@@ -33,7 +33,7 @@ $(document).ready(function(){
 	});
 });
 ```
-
+ 
 run time example
 ```javascript
 $('#add').click(function(){
