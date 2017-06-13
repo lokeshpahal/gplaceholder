@@ -1,4 +1,4 @@
-gplaceholder
+Gplaceholder Lib
 ============
 
 - jQuery support: 1.4+
@@ -33,7 +33,7 @@ $(document).ready(function(){
 	});
 });
 ```
-
+ 
 run time example
 ```javascript
 $('#add').click(function(){
@@ -42,3 +42,4 @@ $('#add').click(function(){
 });
 ```
 ================
+ 
